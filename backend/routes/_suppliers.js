@@ -148,16 +148,10 @@ router.patch("/edit/:id", auth, async (req, res) => {
 // Delete
 router.delete("/delete/:id", auth, async (req, res) => {
   try {
-    // if (req.user?.role !== "admin") {
-    //   return res
-    //     .status(403)
-    //     .json({ success: false, message: "Authorization failed" });
-    // }
     await Suppliers.deleteOne({ _id: req.params.id });
     res.json({ success: true, message: "Suppliers Deleted Successfully" });
   } catch (error) {
     res.status(400).json({ success: false, message: error.message });
   }
 });
-//mantain
 module.exports = router;
