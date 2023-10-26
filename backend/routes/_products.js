@@ -161,9 +161,6 @@ router.get('/list', auth, async (req, res) => {
 // edit 
 router.patch('/edit/:id', auth, async (req, res) => {
     try {
-        // if (req.user?.role !== "admin") {
-        //     return res.status(403).json({ success: false, message: "Authorization failed" })
-        // }
         const { id } = req.params;
         await Product.updateOne({ _id: id }, req.body, { upsert: true })
         res.json({ success: true, message: "Product Updated Successfully" })
@@ -176,9 +173,6 @@ router.patch('/edit/:id', auth, async (req, res) => {
 // Delete 
 router.delete('/delete/:id', auth, async (req, res) => {
     try {
-        // if (req.user?.role !== "admin") {
-        //     return res.status(403).json({ success: false, message: "Authorization failed" })
-        // }
         await Product.deleteOne({ _id: req.params.id })
         res.json({ success: true, message: "Product has been Deleted Successfully" })
 
