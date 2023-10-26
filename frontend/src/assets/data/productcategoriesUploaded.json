@@ -1,0 +1,104 @@
+[
+  {
+    "_id": {
+      "$oid": "640f5987dccbd0d0a06e6aea"
+    },
+    "name": "BEVERAGE"
+  },
+  {
+    "_id": {
+      "$oid": "640f5987dccbd0d0a06e6aeb"
+    },
+    "name": "BREAD"
+  },
+  {
+    "_id": {
+      "$oid": "640f5987dccbd0d0a06e6aec"
+    },
+    "name": "CLEANING"
+  },
+  {
+    "_id": {
+      "$oid": "640f5987dccbd0d0a06e6aed"
+    },
+    "name": "DAIRY"
+  },
+  {
+    "_id": {
+      "$oid": "640f5987dccbd0d0a06e6aee"
+    },
+    "name": "DIM SUM"
+  },
+  {
+    "_id": {
+      "$oid": "640f5987dccbd0d0a06e6aef"
+    },
+    "name": "DISPOSABLE"
+  },
+  {
+    "_id": {
+      "$oid": "640f5987dccbd0d0a06e6af0"
+    },
+    "name": "DRINKS"
+  },
+  {
+    "_id": {
+      "$oid": "640f5987dccbd0d0a06e6af1"
+    },
+    "name": "DRY STORE"
+  },
+  {
+    "_id": {
+      "$oid": "640f5987dccbd0d0a06e6af2"
+    },
+    "name": "FREEZER"
+  },
+  {
+    "_id": {
+      "$oid": "640f5987dccbd0d0a06e6af3"
+    },
+    "name": "FROZEN"
+  },
+  {
+    "_id": {
+      "$oid": "640f5987dccbd0d0a06e6af4"
+    },
+    "name": "GAS"
+  },
+  {
+    "_id": {
+      "$oid": "640f5987dccbd0d0a06e6af5"
+    },
+    "name": "MEAT"
+  },
+  {
+    "_id": {
+      "$oid": "640f5987dccbd0d0a06e6af6"
+    },
+    "name": "OIL"
+  },
+  {
+    "_id": {
+      "$oid": "640f5987dccbd0d0a06e6af7"
+    },
+    "name": "OLIVE"
+  },
+  {
+    "_id": {
+      "$oid": "640f5987dccbd0d0a06e6af8"
+    },
+    "name": "PASTA"
+  },
+  {
+    "_id": {
+      "$oid": "640f5987dccbd0d0a06e6af9"
+    },
+    "name": "PASTRY"
+  },
+  {
+    "_id": {
+      "$oid": "640f5987dccbd0d0a06e6afa"
+    },
+    "name": "PRESERVED"
+  }
+]

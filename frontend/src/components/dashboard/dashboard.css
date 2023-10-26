@@ -1,0 +1,18 @@
+.sales-services-table {
+    height: calc(70vh - 200px)!important;
+    overflow-x: hidden!important;
+    border: 1px solid #DADADA;
+
+}
+
+.sales-services-table .MuiTable-root {
+    background-color: transparent;
+}
+
+.sales-services-table .MuiTableHead-root tr.MuiTableRow-root {
+    background-color: #000!important;
+}
+
+.sales-services-table .MuiPaper-root {
+    margin-top: 5px!important;
+}

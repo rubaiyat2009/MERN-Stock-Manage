@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`with only children props 1`] = `
+<button
+  className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-3u2rsm-MuiButtonBase-root-MuiButton-root"
+  disabled={false}
+  onBlur={[Function]}
+  onContextMenu={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={0}
+  type="button"
+>
+  Button Test
+</button>
+`;
+
+exports[`with outline props 1`] = `
+<button
+  className="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1r8j2cq-MuiButtonBase-root-MuiButton-root"
+  disabled={false}
+  onBlur={[Function]}
+  onContextMenu={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={0}
+  type="button"
+>
+  Button Test
+  <span
+    className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+  />
+</button>
+`;
+
+exports[`with sx props 1`] = `
+<button
+  className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-ayhyiq-MuiButtonBase-root-MuiButton-root"
+  disabled={false}
+  onBlur={[Function]}
+  onContextMenu={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={0}
+  type="button"
+>
+  Button Test
+</button>
+`;

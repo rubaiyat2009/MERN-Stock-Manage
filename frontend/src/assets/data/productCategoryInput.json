@@ -1,0 +1,70 @@
+[
+    {
+     "name": "BEVERAGE",
+     "created_at": { "$date": "2023-03-13T03:38:15.086+00:00" }
+    },
+    {
+     "name": "BREAD",
+     "created_at": { "$date": "2023-03-13T03:38:15.086+00:00" }
+    },
+    {
+     "name": "CLEANING",
+     "created_at": { "$date": "2023-03-13T03:38:15.086+00:00" }
+    },
+    {
+     "name": "DAIRY",
+     "created_at": { "$date": "2023-03-13T03:38:15.086+00:00" }
+    },
+    {
+     "name": "DIM SUM",
+     "created_at": { "$date": "2023-03-13T03:38:15.086+00:00" }
+    },
+    {
+     "name": "DISPOSABLE",
+     "created_at": { "$date": "2023-03-13T03:38:15.086+00:00" }
+    },
+    {
+     "name": "DRINKS",
+     "created_at": { "$date": "2023-03-13T03:38:15.086+00:00" }
+    },
+    {
+     "name": "DRY STORE",
+     "created_at": { "$date": "2023-03-13T03:38:15.086+00:00" }
+    },
+    {
+     "name": "FREEZER",
+     "created_at": { "$date": "2023-03-13T03:38:15.086+00:00" }
+    },
+    {
+     "name": "FROZEN",
+     "created_at": { "$date": "2023-03-13T03:38:15.086+00:00" }
+    },
+    {
+     "name": "GAS",
+     "created_at": { "$date": "2023-03-13T03:38:15.086+00:00" }
+    },
+    {
+     "name": "MEAT",
+     "created_at": { "$date": "2023-03-13T03:38:15.086+00:00" }
+    },
+    {
+     "name": "OIL",
+     "created_at": { "$date": "2023-03-13T03:38:15.086+00:00" }
+    },
+    {
+     "name": "OLIVE",
+     "created_at": { "$date": "2023-03-13T03:38:15.086+00:00" }
+    },
+    {
+     "name": "PASTA",
+     "created_at": { "$date": "2023-03-13T03:38:15.086+00:00" }
+    },
+    {
+     "name": "PASTRY",
+     "created_at": { "$date": "2023-03-13T03:38:15.086+00:00" }
+    },
+    {
+     "name": "PRESERVED",
+     "created_at": { "$date": "2023-03-13T03:38:15.086+00:00" }
+    }
+   ]

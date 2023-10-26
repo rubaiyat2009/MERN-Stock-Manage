@@ -1,0 +1,21 @@
+@media print {
+    @page {
+        size: auto;
+        margin: 25mm 16mm;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        border: 1px solid black;
+    }
+
+    th,
+    td {
+        border: 1px solid black;
+    }
+}
+
+.swal2-container {
+    z-index: 1400;
+}

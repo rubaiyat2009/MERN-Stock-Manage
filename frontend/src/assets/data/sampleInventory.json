@@ -1,0 +1,14 @@
+[
+  {
+    "category": { "$oid": "640aa6115a43a9690a18c06e" },
+    "name": "Calpis And Asst Flavour",
+    "price": 2.1,
+    "created_at": { "$date": "2023-03-11T03:38:15.086+00:00" }
+  },
+  {
+    "category": { "$oid": "640aa6115a43a9690a18c06e" },
+    "name": "Freshie / Cordail",
+    "price": 7.5,
+    "created_at": { "$date": "2023-03-11T03:38:15.086+00:00" }
+  }
+]
